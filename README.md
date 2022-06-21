@@ -11,7 +11,8 @@ I've worked for startups, large corporations and as a consultant building softwa
 *   ✉️  You can contact me at [benjamin.c.cross@gmail.com](mailto:benjamin.c.cross@gmail.com)
 *   🧠  I'm learning web3 and decentralized technologies
 *   🤝  I'm open to collaborating on small web and mobile based projects
-*   ⚡  I'm an active climber and world traveler### Skills<p align="left">
+*   ⚡  I'm an active climber and world traveler and love to climb
+<p align="left">
                                 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
                                 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
                                 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
